@@ -1,0 +1,25 @@
+#header {
+    height : 75px;
+}
+
+#side-panel {
+    height: 650px;
+}
+
+#mapdiv {
+    height: 650px;
+}
+
+#footer {
+    height: 75px;
+}
+
+button {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.head {
+    background-color: bg-primary;
+    
+}
